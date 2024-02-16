@@ -1,0 +1,26 @@
+,country_of_nationality,Reason of Visit,value
+0,BANGLADESH,business_and_professional(%),108.5223067
+1,UNITED STATES,business_and_professional(%),169.9523968
+2,UNITED KINGDOM,business_and_professional(%),107.93150680000001
+3,AUSTRALIA,business_and_professional(%),29.893417400000004
+4,CANADA,business_and_professional(%),16.9596038
+5,BANGLADESH,leisure_holiday_and_recreation(%),1994.1296072
+6,UNITED STATES,leisure_holiday_and_recreation(%),583.0395392
+7,UNITED KINGDOM,leisure_holiday_and_recreation(%),405.4183476
+8,AUSTRALIA,leisure_holiday_and_recreation(%),132.90451789999997
+9,CANADA,leisure_holiday_and_recreation(%),179.23697460000002
+10,BANGLADESH,medical(%),396.9699580000001
+11,UNITED STATES,medical(%),1.2096256
+12,UNITED KINGDOM,medical(%),1.0002920000000002
+13,AUSTRALIA,medical(%),0.367241
+14,CANADA,medical(%),0.4926026
+15,BANGLADESH,indian_diaspora(%),20.364043300000002
+16,UNITED STATES,indian_diaspora(%),445.74703359999995
+17,UNITED KINGDOM,indian_diaspora(%),302.68835920000004
+18,AUSTRALIA,indian_diaspora(%),154.6451851
+19,CANADA,indian_diaspora(%),75.61449909999999
+20,BANGLADESH,others(%),57.7410848
+21,UNITED STATES,others(%),312.08340480000004
+22,UNITED KINGDOM,others(%),183.1534652
+23,AUSTRALIA,others(%),49.43063860000001
+24,CANADA,others(%),79.5553199
